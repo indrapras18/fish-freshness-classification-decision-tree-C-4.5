@@ -1,0 +1,2 @@
+# fish-freshness-classification-decision-tree-C-4.5
+Hi guys, I'm here developing a fish freshness classification application using the GLCM method and Decision tree C 4.5 using fish eye images. So this application works by taking the texture and red channel from the image, which will later produce certain values, with these values ​​a data training process will be carried out which will later produce a learning model for the system.
